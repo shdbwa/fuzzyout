@@ -1,7 +1,4 @@
-fuzzyout ###################################
-############################################
-input your fav' yt video then it dl to audio
-############################################
+FUZZYOUT : input your fav' yt video then it dl to audio
 
 ! NEED DDGR AND YOUTUBE-DL ! 
 
