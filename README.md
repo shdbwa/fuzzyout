@@ -1,3 +1,6 @@
+![preview](https://imgur.com/gklIj44.png )
+
+
 FUZZYOUT : input your fav' yt video then it dl to audio
 
 ! NEED DDGR AND YOUTUBE-DL ! 
